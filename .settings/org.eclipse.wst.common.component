@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="unittest_performance">
+        <wb-resource deploy-path="/" source-path="/webContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src_hd"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src_rd"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src_ws"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src_wsproc"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src_dataClasses"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/unittest"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/jmockittest"/>
+        <property name="context-root" value="unittest_performance"/>
+        <property name="java-output-path" value="/unittest_performance/classes"/>
+    </wb-module>
+</project-modules>
